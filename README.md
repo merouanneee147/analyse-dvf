@@ -1,8 +1,8 @@
-"# Analyse des Donn‚es DVF (Demandes de Valeurs FonciŠres)"  "" 
-"Analyse du march‚ immobilier fran‡ais bas‚e sur les donn‚es DVF avec Python et Pandas."  "" 
-"## A propos des donn‚es" 
+" Analyse des DonnÃ©es DVF (Demandes de Valeurs Foncieres)" 
+"Analyse du marchÃ© immobilier francais basÃ©e sur les donnÃ©es DVF avec Python et Pandas." 
+"A propos des donnÃ©es" 
 "" 
-"Les donn‚es DVF (ValeursFoncieres-2024.txt) ne sont pas incluses dans ce d‚p“t en raison de leur taille. Vous pouvez les t‚l‚charger depuis [le site officiel](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)." 
+"Les donnÃ©es DVF (ValeursFoncieres-2024.txt) ne sont pas incluses dans ce dÃ©pot en raison de leur taille. Vous pouvez les tÃ©lÃ©charger depuis [le site officiel](https://www.data.gouv.fr/fr/datasets/demandes-de-valeurs-foncieres/)." 
  
 ## Installation et utilisation 
  
